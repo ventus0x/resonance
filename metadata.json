@@ -1,0 +1,6 @@
+{
+  "name": "Resonance Music",
+  "description": "An open music discovery and streaming platform where anyone can stream instantly without an account, with creator uploads, playlists, and artist profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
